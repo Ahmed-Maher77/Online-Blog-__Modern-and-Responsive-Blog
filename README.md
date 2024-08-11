@@ -23,4 +23,3 @@ Online Blog is a modern and responsive blog theme designed for an enhanced readi
 - <b>Customizable:</b> Easy to customize and extend to fit different blogging needs and styles.
 - <b>Cross-Browser Compatibility:</b> Ensures consistent performance across all major web browsers.
 - <b>Performance Optimized:</b> Designed with performance in mind for fast loading times and smooth operation.
-from github
