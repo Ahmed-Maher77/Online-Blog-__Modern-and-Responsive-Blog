@@ -30,6 +30,9 @@ body {
 .c-light-dark {
     color: var(--c-light-dark);
 }
+.bg-light-blue {
+    background-color: var(--light-blue);
+}
 a {
     text-decoration: none;
 }
@@ -161,6 +164,9 @@ a {
 
 
 @media (min-width: 992px) {
+    .text-large {
+        font-size: 1.2rem
+    }
     /* Navbar */
     .nav-user .toggler {
         display: none;
@@ -183,7 +189,7 @@ a {
     .nav-user .main-list a.active {
         scale: 1.1;
     }
-
+    /* Landing */
     #landing {
         height: 600px;
     }
