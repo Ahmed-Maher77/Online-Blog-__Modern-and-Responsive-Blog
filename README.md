@@ -3,10 +3,9 @@ Online Blog is a modern and responsive blog theme designed for an enhanced readi
 
 <br>
 
-➲ **Used Technologies:** <br>
-HTML/HTML5 - CSS/CSS3 - JavaScript - Git - Bootstrap
-➲ **Used Libraries / SDK:** <br>
-Boxicons - Google Fonts - Popper.js
+➲ **Used Technologies:**&nbsp; HTML/HTML5 - CSS/CSS3 - JavaScript - Git - Bootstrap
+<br>
+➲ **Used Libraries / SDK:**&nbsp; Boxicons - Google Fonts - Popper.js
 <br><br>
 ➲ **Demo (Live Preview):** <a href="https://ahmed-maher77.github.io/Online-Blog__Modern-and-Responsive-Blog/" target="_blank">https://ahmed-maher77.github.io/Online-Blog__Modern-and-Responsive-Blog/</a> 
 
